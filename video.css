@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.bg{
+    background-color: #22174D;
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+}
+.background{
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 80px;
+    border-radius: 24px;
+}
+.mockingbird{
+    font-size: 40px;
+    font-weight: 300;
+    font-style: italic;
+    color: white;
+    margin-top: 40px;
+    
+}
+.span{
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+.summary{
+    font-size: 18px;
+    font-weight:100;
+    margin-top: 40px;
+    color: white;
+    padding: 0 120;
+}
+.video{
+    margin-top: 60px;
+    border-radius: 12px;
+}
+.main{
+    display: inline-block;
+    padding: 18px 24px;
+    margin: 24px;
+    background-color: #6EDE92;
+    color: #0D081C;
+    text-decoration: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 400;
+}
+.table{
+    display: inline-block;
+    padding: 18px 24px;
+    border: 2px, solid, #9878F2;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 400;
+}
